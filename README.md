@@ -1,6 +1,6 @@
 ### About
 
-🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. I have previously worked as a Machine Learning engineer.
+🔭 I'm passionate about Artificial Intelligence and Machine Learning. I have previously worked as a Machine Learning engineer and taught a Machine learning course.
 
 👉🏼 ***Feel free to follow me on [LinkedIn](https://www.linkedin.com/in/vinayvarma-k/) to stay updated with my latest AI content.***
 
