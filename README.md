@@ -15,7 +15,7 @@
 
 ### Personal Profile
 
-🌎 [vinayvarma.work](https://vinayvarma.work/about/)
+🌎 [vinayvarmak.com](https://vinayvarmak.com)
 
 ### Selected Writings
 
