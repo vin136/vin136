@@ -9,7 +9,7 @@
 🧠 Previously, I lead a small team Engineers at [Niveshi](https://www.linkedin.com/company/niveshi/) and successfully applied deep reinforcement learning to financial trading. 
 
 
-🌱 I'm currently pursuing my graduate studies[2021-2023] in [Computer Science](https://www.cs.rutgers.edu/) with a specialization in [Machine Learning](http://ai.stanford.edu/) from [Rutgers University](https://www.rutgers.edu/). 
+🌱 Pursued my graduate studies[2021-2023] in [Computer Science](https://www.cs.rutgers.edu/) with a specialization in [Machine Learning](http://ai.stanford.edu/) from [Rutgers University](https://www.rutgers.edu/). 
 
 🎓 I received my Bachelors in [Electronics and Communication Engineering](http://www.ece.wisc.edu/) from  [NITD](https://nitdelhi.ac.in/) and graduated in 2018.
 
